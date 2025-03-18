@@ -23,20 +23,24 @@ metodos ageis - (waterfall),(espiral),(modelo seguro)
 modelos : como vc vai aplicar este ciclo 
 
 
-incremental=
+= incremental =
 definem o nvp (produto minimo viavel)
 assim como o cascata ele é por etapas, porem ele é 
 entregue/posto para uso ao final de cada etapa 
 e apos ir incrementando o software ja em produção 
 
-espiral=
+= espiral =
 o cliente tem maior participação na construção 
 dos software 
 
-metodologia agil=
+= metodologia agil =
 maneira mais interativa e agil para entrega desses
 softwares em partessignificativas para o funcionamento 
 cliente/equipe/processo e software
+
+= skrum=
+metologia de geestão de projetos, que envolve pessoas
+
 
 (reflexão sobre SDLC, modelos, metologias/processos auxiliares  metodologia ageis)
 
