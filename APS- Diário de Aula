@@ -2,11 +2,27 @@ Diario De Aula em APS
 
 18/03/2025
 
-o SDLC (ciclo de vida de desenvolvimento de software é uma abordagem estruturada e organizada para o desenvolvimento do software
+como funciona o SDLC ( software devolpment life cycle)
+é o processo desde sua concepçao inicial, as manutenções, e a entrega do mesmo
+e para esse ciclo usamos uma metologia, um forma de seguir essa trajetoria 
 
-um belo exemplo classico é o metodo de cascata (waterfall
 
-o metodo (waterfall) cascata surgiu para suprir problemas na criação 
+PLANEJAMENTO = definimos os objetivos do software e suas funcionalidades e requisitos necessarios 
+               
+
+ANALISE DE REQUISITOS = coleta de dados, documentação e a analise das especificações dos requisitos 
+
+PROJETO = definir a modelagem do projeto e de como ele sera implementado 
+
+CODIFICAÇÂO = parte de execução do projeto, toda codificação dos requisitos 
+
+TESTES = garantir que o software esteja livre de bugs e atenda aos requisitos 
+
+IMPLANTAÇÃO = disponibilixar o software para seu cliente final
+
+
+                                      = cascata =
+surgiu para suprir problemas na criação 
 gerando uma previsibilade das etapas pois se trata de uma metodologia 
 sequencial, mesmo hoje ela n ser muito usada, segue sendo a favorita em alguns ambientes
 academicos.
@@ -15,9 +31,13 @@ precisa de uma melhor previsibilidade.
 A metologia é marcada por etapas sequencias lavantando requisitos, seguindo para a modelagem,
 desenvolvimento, testes e implementação.
 
-erros de comunicação nessa metologia é oq mais acontece 
+DESVANTAGENS = erros de comunicação nessa metologia é oq mais acontece 
+                uma desvantagem do cascata, a possibilidade de ao prosseguir
+                uma parte caso a anterior esteja errada sendo descoberta 
+                possivelmente no final 
 
-sobre as metologias 
+
+
 metodos ageis - (waterfall),(espiral),(modelo seguro) 
 
 modelos : como vc vai aplicar este ciclo 
@@ -44,6 +64,214 @@ metologia de geestão de projetos, que envolve pessoas
 
 (reflexão sobre SDLC, modelos, metologias/processos auxiliares  metodologia ageis)
 
-topicos importantes - 
+25 / 03 / 2025
+
+retomada de aula 
+
+modelagem vem antes da produção pois n temos uma noção exata da dimensão do projeto 
+ent fazemos a modelagem
+
+vies = validação tendenciosa
+
+STAKEHOLDERS (qualquer envolvido com o projeto ou que tenha interesse que podem influenciar 
+            ou ser influenciados por sucesso ou falha do projeto)
+
+
+levantamentos de dados ( é muito importante, se errar nessa etapa, erra tudo)
+                         analizar certo, escrever certo, ERROS COMUNS ( comunicação
+                         entre a equipe, cliente, devs),(interpretação)(cliente nao saber oq quer)
+
+                          = TECNICAS DE LEVANTAMENTO =
+                          pesquisa de mercado é fundamental, para entender o escopo, a dor do 
+                          do cliente, custo e tempo, oq existe no mercado
+
+                          entrevista, onde vc tira a prova real com o proprio cliente
+                          bem estatico
+
+                          etnografia é entender os comportamentos, práticas e valores de
+                          um grupo ou comunidade a partir da perspectiva dos próprios membros
+                          desse grupo
+
+                          observação é a metologia de obervação, tendo restrições em areas restritas
+                          da propria empresa 
+
+                          questionario é pra perguntar mesmo 
+
+WORKSHOP (é um tipo de evento ou atividade prática e interativa, geralmente de curta duração
+         focado no aprendizado e desenvolvimento de habilidades específicas. Ao contrário de 
+         palestras ou seminários)
+
+analise dcumental (uma validação da documentação da empresa que ajude 
+                  a nortear oq ser feito)
+
+prototipação ( cria uma preliminar, um prototipo do projeto, que permite melhor visualição e 
+             tester funcionalidades 
+
+permissões (cuidados com a comunicação, prototipação, vies, interpretação, uso de mais tecnicas)
+
+
+engenharia de requisitos ( conceitos, teminologias, fundamentos e importancia)
+                        processos : Extração de requisitos(descobrimento)
+                                    analise e negociação (requisitos acordados)
+                                    validação de requisitos (consistentes, precisos)
+                                    gerenciamento de mudança de requisitos
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           = ESPAÇO PARA REFLEXÃO =
+
+1. Mapeamento do Processo Atual
+O que fazer: Antes de começar a melhorar o processo, é importante entender como ele funciona atualmente. Faça um mapeamento do processo atual de empréstimo e devolução de equipamentos e acessórios.
+
+Questões a considerar: 
+
+Quem faz os empréstimos?
+
+Como o processo de registro é feito (manual, planilha, sistema)?
+
+Como o controle de devolução é feito?
+
+Quais informações são registradas (data de empréstimo, prazo, pessoa responsável, etc.)?
+
+Existem problemas recorrentes (como atrasos, equipamentos danificados ou extraviados)?
+
+2. Definir Categorias de Equipamentos e Acessórios
+O que fazer: Organize os itens em categorias para facilitar o controle e o rastreamento. Por exemplo:
+
+Equipamentos eletrônicos (computadores, projetores, câmeras, etc.)
+
+Acessórios (cabos, mouses, fones de ouvido, etc.)
+
+Outros (materiais diversos como livros, dispositivos móveis, etc.)
+
+Benefício: Facilita a visualização e o acompanhamento de itens em diferentes categorias, ajudando a identificar onde podem ocorrer problemas.
+
+3. Criar um Sistema de Registro e Rastreamento
+O que fazer: Estabeleça um sistema para registrar todas as movimentações de equipamentos e acessórios. Aqui estão algumas sugestões:
+
+Planilha Excel ou Google Sheets: Criar uma planilha com campos como:
+
+Nome do item
+
+Quantidade
+
+Data do empréstimo
+
+Nome do responsável pelo empréstimo
+
+Data de devolução prevista
+
+Status de devolução (em dia, atrasado, devolvido)
+
+Observações (condição do item, problemas, etc.)
+
+Sistema Online ou Software de Gestão: Se possível, adote um sistema mais robusto, como um software de gestão de estoque (como o Zoho Inventory, Stockpile, ou sistemas específicos para educação).
+
+Dica: Inclua um campo de "data de devolução prevista" para garantir que os itens sejam devolvidos no prazo.
+
+4. Desenvolver um Processo de Empréstimo e Devolução Claro
+O que fazer: Crie procedimentos claros para o empréstimo e devolução de itens. Isso pode incluir:
+
+Formulário de Empréstimo: O responsável pelo item deve preencher um formulário (online ou impresso) com informações sobre o equipamento, a data e o prazo de devolução.
+
+Checklist de Condição do Item: Ao emprestar e devolver os itens, verifique a condição física e registre qualquer dano ou falta.
+
+Notificações: Se o sistema for digital, configure alertas automáticos para lembrar os responsáveis sobre os prazos de devolução.
+
+Benefício: Isso ajuda a garantir que o processo seja padronizado e que não haja confusões.
+
+5. Implementar um Sistema de Controle de Estoque em Tempo Real
+O que fazer: Se possível, implemente um sistema que permita o controle em tempo real do estoque, de modo que sempre que um item for emprestado ou devolvido, o estoque seja atualizado imediatamente.
+
+Exemplo: Um simples sistema de código de barras ou QR codes pode ser muito útil. Cada item teria um código de barras ou QR code, e ao ser emprestado ou devolvido, o responsável escaneia o código com um aplicativo ou leitor, atualizando automaticamente o registro.
+
+6. Estabelecer Políticas de Empréstimo
+O que fazer: Defina e documente as políticas de empréstimo para os equipamentos e acessórios. Isso pode incluir:
+
+Limite de tempo para o empréstimo (por exemplo, um máximo de uma semana)
+
+Multas ou penalidades por atraso ou danos ao equipamento
+
+Regras sobre o número máximo de itens que podem ser emprestados por pessoa
+
+Requisitos para a devolução (por exemplo, os equipamentos devem ser limpos e em bom estado)
+
+Benefício: Ter regras claras ajuda a evitar mal-entendidos e mantém a organização no processo.
+
+7. Auditoria Regular
+O que fazer: Realize auditorias periódicas para garantir que o processo está sendo seguido corretamente. Isso pode incluir:
+
+Verificar o estoque físico de itens emprestados
+
+Conferir os registros de empréstimos e devoluções
+
+Atualizar o inventário conforme necessário
+
+Benefício: Isso ajudará a identificar rapidamente qualquer discrepância ou item perdido.
+
+8. Gerar Relatórios de Empréstimos
+O que fazer: Utilize a ferramenta de controle (planilha ou software) para gerar relatórios regulares, como:
+
+Relatório de itens mais emprestados
+
+Relatório de itens atrasados ou não devolvidos
+
+Relatório de status de manutenção ou consertos necessários
+
+Benefício: Isso permite uma visão geral do uso dos recursos e ajuda a tomar decisões sobre compras futuras ou manutenção de equipamentos.
+
+9. Treinamento e Comunicação
+O que fazer: Capacite todos os envolvidos (professores, alunos, equipe administrativa) sobre as novas práticas e ferramentas de controle. A comunicação é crucial para garantir que todos compreendam e sigam as políticas.
+
+Benefício: Reduz a probabilidade de erros no processo e garante que todos saibam como utilizar o sistema de empréstimo corretamente.
+
+
+
+
+
+
+
+                          
+
+
+
+
+
+
+
+
+
+
+
 
 
